@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/73046034/214067992-a85eea4c-8df1-4ad8-
 
 <h3 align="letf"> Project Access </h3>
 
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/eloisaferreiras/Projeto-I-/new/master?readme=1).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/eloisaferreiras/Projeto-I-).
 
 <p align="left">
 <img src="[http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)"/>
